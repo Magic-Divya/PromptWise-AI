@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+.streamlit/secrets.toml
+.pytest_cache/
+.DS_Store
+app_before_redesign.py
+app_backup_before_upgrade.py
